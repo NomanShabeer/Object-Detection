@@ -19,7 +19,7 @@ This project demonstrates object detection using OpenCV and the MobileNet SSD mo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+  [ git clone https://github.com/yourusername/your-repo.git](https://github.com/NomanShabeer/Object-Detection.git)
    cd your-repo
    ```
 
@@ -36,7 +36,6 @@ To perform object detection on an image, you can use the following command:
 python object_detection.py /path/to/your/image.jpg
 ```
 
-Replace `/path/to/your/image.jpg` with the path to the image you want to analyze.
 
 ## Example
 
