@@ -37,11 +37,6 @@ To perform object detection on an image, you can use the following command:
 ```
 
 
-## Example
-
-Here's an example of object detection in action:
-
-![Object Detection Example](/images/example.jpg)
 
 ## Model
 
