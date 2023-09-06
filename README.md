@@ -26,16 +26,7 @@ This project demonstrates object detection using OpenCV and the MobileNet SSD mo
 2. Install the required dependencies:
    ```bash
    pip install opencv-python matplotlib
-   ```
-
-## Usage
-
-To perform object detection on an image, you can use the following image:
-
-```bash
-https://github.com/NomanShabeer/Object-Detection/blob/main/image1-1.png
-```
-
+   ``
 
 
 ## Model
