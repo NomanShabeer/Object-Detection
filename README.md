@@ -30,10 +30,10 @@ This project demonstrates object detection using OpenCV and the MobileNet SSD mo
 
 ## Usage
 
-To perform object detection on an image, you can use the following command:
+To perform object detection on an image, you can use the following image:
 
 ```bash
-(https://github.com/NomanShabeer/Object-Detection/blob/main/image1-1.png)
+https://github.com/NomanShabeer/Object-Detection/blob/main/image1-1.png
 ```
 
 
